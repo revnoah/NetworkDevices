@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Network Devices</string>
+    <string name="scan_network">Scan Network</string>
+    <string name="scanning">Scanning...</string>
+    <string name="ready">Ready to scan</string>
+    <string name="network_not_scanned">Local network not scanned yet</string>
+    <string name="wifi_unavailable">Connect to Wi-Fi to scan the local network.</string>
+</resources>
